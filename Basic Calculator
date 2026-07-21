@@ -1,0 +1,72 @@
+# 🧮 Calculator Program in C
+
+## 📌 Project Overview
+This project is a simple Calculator Program developed in the C programming language as part of the **CodeAlpha C Programming Internship – Task 1**. It performs basic arithmetic operations using the **switch-case** statement.
+
+## 🎯 Objective
+To build a menu-driven calculator that performs basic mathematical operations:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## ✨ Features
+- User-friendly menu
+- Uses `switch-case` for operation selection
+- Supports four basic arithmetic operations
+- Handles invalid menu choices
+- Simple and easy-to-understand code
+
+## 🛠️ Technologies Used
+- C Programming
+- GCC Compiler / Turbo C / Code::Blocks / VS Code
+
+## 📂 Project Structure
+```
+CalculatorProgram/
+│── calculator.c
+│── README.md
+```
+
+## ▶️ How to Compile and Run
+
+### Compile
+```bash
+gcc calculator.c -o calculator
+```
+
+### Run
+```bash
+./calculator
+```
+
+## 📸 Sample Output
+
+```
+===== Calculator =====
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter your choice: 1
+
+Enter two numbers:
+10
+20
+
+Result = 30
+```
+
+## 📚 Concepts Used
+- Variables
+- Input/Output
+- Switch Case
+- Arithmetic Operators
+- Functions (if implemented)
+
+## 🎓 Internship Details
+- **Internship:** CodeAlpha C Programming Internship
+- **Task:** Task 1 – Basic Calculator Program
+
+## 👩‍💻 Author
+**Kalyani Kamarajugadda**
